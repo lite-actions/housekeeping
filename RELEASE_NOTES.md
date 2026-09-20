@@ -1,4 +1,4 @@
-# utilities
+# housekeeping
 
 ## v0.1.0
 
