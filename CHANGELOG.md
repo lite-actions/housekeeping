@@ -3,6 +3,12 @@
 All notable changes to this project are documented in this file,
 grouped by push and referenced by short commit SHA.
 
+## 2026-09-20 ([8e61f82](https://github.com/lite-actions/housekeeping/commit/8e61f828cc353b6fe6462350bf609202ddaf3384))
+
+### Other Changes
+
+- Disable scheduled trigger for unstick-auto-merge workflow ([def2f44](https://github.com/lite-actions/housekeeping/commit/def2f44455208b7f03b6428c7743f0c6a1341fc6))
+
 ## 2026-08-26 ([09e550a](https://github.com/lite-actions/utilities/commit/09e550af0787fa2ddb07511789cfe47099b8dae0))
 
 ### Other Changes
