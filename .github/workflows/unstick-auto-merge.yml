@@ -18,11 +18,11 @@ name: Unstick auto-merge
 # ready and then failed to merge, and completes the merge itself.
 
 on:
-  schedule:
+ # schedule:
     # Every 15 minutes. GitHub's cron is best-effort and can be delayed under
     # load, which does not matter here: a stuck PR stays stuck, so a late run
     # still fixes it.
-    - cron: "*/15 * * * *"
+    #- cron: "*/15 * * * *"
   workflow_dispatch:
     inputs:
       stall-minutes:
